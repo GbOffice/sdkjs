@@ -3,25 +3,25 @@
 
 ## Sdkjs
 
-JavaScript SDK which is a part of [ONLYOFFICE Document Server][2] and [ONLYOFFICE Desktop Editors][4]. Contains API for all the included components client-side interaction and implementation of [Office JavaScript APIs][5].
+JavaScript SDK which is a part of [GbOffice Document Server][2] and [GbOffice Desktop Editors][4]. Contains API for all the included components client-side interaction and implementation of [Office JavaScript APIs][5].
 
 ## Project Information
 
-Official website: [http://www.onlyoffice.com](http://onlyoffice.com "http://www.onlyoffice.com")
+Official website: [http://www.gboffice.com](http://gboffice.com "http://www.gboffice.com")
 
-Code repository: [https://github.com/ONLYOFFICE/sdkjs](https://github.com/ONLYOFFICE/sdkjs "https://github.com/ONLYOFFICE/sdkjs")
+Code repository: [https://github.com/GbOffice/sdkjs](https://github.com/GbOffice/sdkjs "https://github.com/GbOffice/sdkjs")
 
-SaaS version: [https://www.onlyoffice.com/cloud-office.aspx](https://www.onlyoffice.com/cloud-office.aspx "https://www.onlyoffice.com/cloud-office.aspx")
+SaaS version: [https://www.gboffice.com/cloud-office.aspx](https://www.gboffice.com/cloud-office.aspx "https://www.gboffice.com/cloud-office.aspx")
 
 ## User Feedback and Support
 
-If you have any problems with or questions about [ONLYOFFICE Document Server][2], please visit our official forum to find answers to your questions: [forum.onlyoffice.com][1] or you can ask and answer ONLYOFFICE development questions on [Stack Overflow][3].
+If you have any problems with or questions about [GbOffice Document Server][2], please visit our official forum to find answers to your questions: [forum.gboffice.com][1] or you can ask and answer GbOffice development questions on [Stack Overflow][3].
 
-  [1]: https://forum.onlyoffice.com
-  [2]: https://github.com/ONLYOFFICE/DocumentServer
-  [3]: http://stackoverflow.com/questions/tagged/onlyoffice
-  [4]: https://github.com/ONLYOFFICE/DesktopEditors
-  [5]: https://github.com/ONLYOFFICE/office-js-api
+  [1]: https://forum.gboffice.com
+  [2]: https://github.com/GbOffice/DocumentServer
+  [3]: http://stackoverflow.com/questions/tagged/gboffice
+  [4]: https://github.com/GbOffice/DesktopEditors
+  [5]: https://github.com/GbOffice/office-js-api
   
 ## License
 
